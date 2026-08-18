@@ -363,6 +363,14 @@ nav .fas{
     display: none;
 }
 
+.custom-link {
+    color: #EE8AF8; /* white */
+}
+
+.center-text {
+    text-align: center;
+}
+
 @media only screen and (max-width: 600px){
     #header{
         background-image: url(images/phone-background.png);
